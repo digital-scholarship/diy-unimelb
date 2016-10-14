@@ -4,7 +4,7 @@
 
 See a live exhibition using this repository here:
 
-http://wragge.github.io/forecasters-demo/
+https://digital-scholarship.github.io/diy-unimelb/
 
 Before you get started you'll need to have some Trove lists ready to provide the content for your exhibition. [Trove lists](http://help.nla.gov.au/trove/using-trove/creating-contributing/lists) are just collections of items found on Trove -- they're easy to create, manage, and edit.
 
